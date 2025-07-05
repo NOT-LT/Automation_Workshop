@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/14a69638-6a0b-4766-8814-2d0cdd2d81aa)# Automation_Workshop
 ## Day 2:
 Prompt: 
 ```
